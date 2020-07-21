@@ -11,3 +11,5 @@
   - libs/api-interfaces/ignore.this
 ```
 * this is a bug, because files listed in the `.gitignore` file should be ignored
+
+see https://github.com/nrwl/nx/issues/3376
