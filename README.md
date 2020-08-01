@@ -1,6 +1,6 @@
 # nx workspace lint issue with .nxignore
 
-this is related to https://github.com/nrwl/nx/issues/3376
+see also bugreport: https://github.com/nrwl/nx/issues/3453
 
 nx-version `10.0.7`
 
